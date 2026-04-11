@@ -10,7 +10,7 @@ layout: project
 title: Spotted Lanternfly Mechanical Separator
 description: Design Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+#image: /assets/images/radio-machine-cad.jpg
 ---
 
 ## 📋 Table of Contents
