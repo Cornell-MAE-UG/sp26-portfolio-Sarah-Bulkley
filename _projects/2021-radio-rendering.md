@@ -5,13 +5,6 @@ description: Design Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
----
-layout: project
-title: Spotted Lanternfly Mechanical Separator
-description: Design Project
-technologies: [Autodesk Fusion]
-#image: /assets/images/radio-machine-cad.jpg
----
 
 ## 📋 Table of Contents
 {: .no_toc}
