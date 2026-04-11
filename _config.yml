@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sarah Bulkley
 description              : Sarah Bulkley - Projects and CV 
-baseurl                  : /sp26-portfolio-Bulkley/ 
+baseurl                  : /sp26-portfolio-Sarah-Bulkley/ 
 
 # Theme and Style
 theme: jekyll-theme-minimal
