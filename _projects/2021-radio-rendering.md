@@ -139,17 +139,3 @@ Quantitative Metrics:
 Number of drops lost in each cycle (list): 11,7,14
 Average rate of water loss (ml/minute) = #drops*0.05ml/1min = 0.55 ml, 0.35 ml, 0.7 ml
 Design Changes Needed: While the TPU shaft seal holds water incredibly well, better tolerancing on our 3D prints and machine shaft and perhaps an actual shaft seal from McMaster Carr will truly make this a watertight machine.
-<!--## Final Design
-![Shaded rendering]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-## Inspiration
-I was inspired by this old radio...
-
-## Challenges & Solutions
-Content here...
-
-## Reflection
-Final thoughts here...
-
-For a class, we were asked to CAD a complex object...
-
