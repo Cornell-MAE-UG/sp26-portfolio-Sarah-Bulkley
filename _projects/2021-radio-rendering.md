@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
+title: Spotted Lanternfly Mechanical Separator
+description: Design Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
