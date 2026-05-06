@@ -133,7 +133,7 @@ Number of drops lost in each cycle (list): 11,7,14
 Average rate of water loss (ml/minute) = #drops*0.05ml/1min = 0.55 ml, 0.35 ml, 0.7 ml
 Design Changes Needed: While the TPU shaft seal holds water incredibly well, better tolerancing on our 3D prints and machine shaft and perhaps an actual shaft seal from McMaster Carr will truly make this a watertight machine.
 
-## Client Pitch
+## Client Report
 Client Report: Buoyancy-Based Agitation System for SLF Removal
 Team Name: F4 Pest Control 
 Team Members: Liz Tipton, Katelyn Fu, Arda Griffin, Sarah Bulkley, Junseok Kang 
